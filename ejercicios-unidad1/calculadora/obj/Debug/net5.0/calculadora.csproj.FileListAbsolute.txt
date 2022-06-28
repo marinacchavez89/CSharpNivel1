@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 1\Ejercicios Unidad 1\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache

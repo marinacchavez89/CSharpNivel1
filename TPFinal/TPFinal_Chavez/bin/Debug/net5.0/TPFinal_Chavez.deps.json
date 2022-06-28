@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TPFinal_Chavez/1.0.0": {
+        "runtime": {
+          "TPFinal_Chavez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPFinal_Chavez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejerecicio5bis/1.0.0": {
+        "runtime": {
+          "ejerecicio5bis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerecicio5bis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
